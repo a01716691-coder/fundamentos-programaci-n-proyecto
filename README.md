@@ -5,3 +5,5 @@ Durante el tiempo en el que empecé a ir al gimnasio, tenía muchos problemas pa
 Es por eso que mi idea para este proyecto es crear un programa que te ayude a poder llevar un recuento de los macronutrientes de tus comidas diarias, para que sepas cuál es tu ingesta, y para que conforme bajes o subas de peso te guíe a qué cambios deberías hacer en tu dieta, como cuántas calorías deberías subir o bajar, o cuántas proteínas o grasas. Un programa que facilite el seguimiento de tus macronutrientes en base a cálculos.
 
 Incluso si lo utilizara alguien que ya tiene una dieta base, podría apoyarse de este programa por si quiere hacer una comida fuera de su dieta pero no sabe los macronutrientes de la misma, o por si no está seguro de en qué momento debería aumentar o reducir sus calorías.
+
+el pseudocodigo esta subido como archivo
