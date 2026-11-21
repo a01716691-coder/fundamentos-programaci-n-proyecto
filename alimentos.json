@@ -1,0 +1,24 @@
+{
+    "comidas": {
+        "pollo": {
+            "calorias": 167,
+            "proteina": 31
+        },
+        "carne molida": {
+            "calorias": 265,
+            "proteina": 20
+        },
+        "arroz": {
+            "calorias": 130,
+            "proteina": 2
+        },
+        "huevo": {
+            "calorias": 145.0,
+            "proteina": 12.5
+        },
+        "frijoles": {
+            "calorias": 138.2,
+            "proteina": 8.0
+        }
+    }
+}
